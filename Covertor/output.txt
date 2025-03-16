@@ -1,0 +1,15 @@
+Start of Project
+│   ├── Start → {id: 1741159698830, xcor: -125, ycor: 104, heading: 0, color: -10, shade: 60, pensize: 5, grey: 100}
+│   │   ├── Set Instrument → guitar
+│   │   │   ├── Note
+│   │   │   │   ├── Divider Block → 1 / 4 = 0.25
+│   │   │   │   ├── Pitch Calculation
+│   │   │   │   │   ├── Solfege: sol
+│   │   │   ├── Note
+│   │   │   │   ├── Divider Block → 1 / 4 = 0.25
+│   │   │   │   ├── Pitch Calculation
+│   │   │   │   │   ├── Solfege: mi
+│   │   │   ├── Note
+│   │   │   │   ├── Divider Block → 1 / 2 = 0.5
+│   │   │   │   ├── Pitch Calculation
+│   │   │   │   │   ├── Solfege: sol
