@@ -37,7 +37,6 @@ Specifically, we aim to achieve the following:
 
 **Coding Mentors**<br>
 [Walter Bender](https://github.com/walterbender/) [Sumit Srivastava](https://github.com/sum2it)<br>
-
 **Assisting Mentors**<br>
 [Devin Ulibarri](https://github.com/pikurasa/)
 
