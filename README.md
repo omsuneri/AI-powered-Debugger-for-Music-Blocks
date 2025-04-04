@@ -28,13 +28,9 @@ Specifically, we aim to achieve the following:
 - Work on techniques to minimize hallucinations and improve accuracy.
 
 **Project Length**<br>
-
 **350** hours
-
 **Difficulty**<br>
-
 **Hard**<br>
-
 **Coding Mentors**<br>
 [Walter Bender](https://github.com/walterbender/) [Sumit Srivastava](https://github.com/sum2it)<br>
 **Assisting Mentors**<br>
